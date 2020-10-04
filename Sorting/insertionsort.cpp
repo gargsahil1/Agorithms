@@ -2,7 +2,7 @@
 #define ll long long
 
 using namespace std;
-insertionsort(ll int * arr,ll int l , ll int h )
+insertionsort(ll int * arr,ll int l , ll int h)
 {
 	if(l==h)
 	return 0;
